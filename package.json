@@ -10,7 +10,6 @@
   "author": "Ramon Moraes @github.com/ramonmoraes",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
     "nodemon": "^1.18.3"
   }
 }
