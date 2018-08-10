@@ -1,4 +1,4 @@
-service: dullahanHead
+service: dullahan-shead
 provider:
   name: aws
   runtime: nodejs9.2.1
@@ -7,7 +7,7 @@ functions:
   hello:
     handler: handler.hello
     events:
-     - http:
+      - http:
          path: users/create
          method: get
 
