@@ -1,7 +1,7 @@
 service: dullahan-shead
 provider:
   name: aws
-  runtime: nodejs9.2.1
+  runtime: nodejs8.1.0
 
 functions:
   hello:
