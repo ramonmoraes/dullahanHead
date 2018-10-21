@@ -10,6 +10,7 @@
   "author": "Ramon Moraes @github.com/ramonmoraes",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.3",
+    "puppeteer": "^1.9.0"
   }
 }
